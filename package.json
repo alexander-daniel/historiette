@@ -1,0 +1,8 @@
+{
+  "name": "historiette",
+  "version": "1.0.0",
+  "description": "simple diy toniebox device using raspberry pi pico + kalumajs",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT"
+}
